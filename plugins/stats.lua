@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "nod32" then -- Put everything you like :)
+    if matches[2] == "viRuS" then -- Put everything you like :)
       if not is_admin(msg) then
         return "For admins only !"
       else
@@ -141,15 +141,14 @@ return {
     "^[!/]([Ss]tats)$",
     "^[!/]([Ss]tatslist)$",
     "^[!/]([Ss]tats) (group) (%d+)",
-    "^[!/]([Ss]tats) (nod32)",-- Put everything you like :)
-		"^[!/]([Nn]od32)"-- Put everything you like :)
+    "^[!/]([Ss]tats) (virus)",-- Put everything you like :)
+		"^[!/]([Vv]irus)"-- Put everything you like :)
     }, 
   run = run
 }
 
 end
 
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--Copyright and edit; @vvViRuSss
+
+--ch : @zvirusx
