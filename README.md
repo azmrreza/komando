@@ -10,9 +10,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/BH-YAGHI/NOD32-BOT.git
+git clone https://github.com/BooM-amour/dark.git
 
-cd NOD32-BOT
+cd dark
 
 chmod +x launch.sh
 
@@ -46,9 +46,9 @@ Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
 HOW DO MAKE UPDATE THIS FILE?
 
-see this git https://github.com/BH-YAGHI/tg.git
+see this git https://github.com/BooM-amour/dark
 
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
+channel : https://telegram.me/zvirusx
 
-developer : https://telegram.me/Behroozyaghi
+developer : https://telegram.me/vvViRuSss
