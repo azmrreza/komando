@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'DARKvirus v8'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @vvViRuSss
   
-  Channel : @Nod32team
+  Channel : @zvirusx
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : https://github.com/BooM-amour/dark
   
-  NOD32 VERSION 8
+  DARKvirus VERSION 8
   
   All rights reserved.
   __________________]]
@@ -25,7 +25,7 @@ return {
 }
 
 end
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--Copyright and edit; @vvViRUSss
+
+--ch : @zvirusx
+
