@@ -249,8 +249,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 
-channel : @zvirusx
-channel : @ARTwork_v_S
+channel : @sangintextt
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -516,7 +515,7 @@ ch: @zvirusx
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @zvirusx
+channel: @sangintextt
 
 G00D LUCK ^_^
 ]]
