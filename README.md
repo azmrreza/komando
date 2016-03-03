@@ -46,9 +46,9 @@ Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
 HOW DO MAKE UPDATE THIS FILE?
 
-see this git https://github.com/BooM-amour/dark
+see this git https://github.com/amin123amin/komando.git
 
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/zvirusx
+channel : https://telegram.me/sangintextt
 
-developer : https://telegram.me/vvViRuSss
+developer : https://telegram.me/in_acc_mord.and @
